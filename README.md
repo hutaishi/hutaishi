@@ -12,5 +12,5 @@ Java Senior Development Engineer at Kuaishou.<img src="https://media.giphy.com/m
 - 🌱 I’m currently learning High-Performance Java API Gateway.
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hutaishi&show_icons=true&count_private=true)   
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hutaishi&show_icons=true&count_private=true)   <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150">
 
