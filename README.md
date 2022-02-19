@@ -6,7 +6,7 @@
 ### Hi there 👋.I'm hutaishi!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 *** 
-Java Senior Development Engineer at Kuaishou.
+Java Senior Development Engineer at Kuaishou.<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
 - 🌱 I’m currently learning High-Performance Java API Gateway.
