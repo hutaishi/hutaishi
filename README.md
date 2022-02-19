@@ -4,7 +4,7 @@
 [![Years Badge](https://badges.pufler.dev/years/hutaishi)](https://badges.pufler.dev)
 
 ### Hi there 👋
-
+Java Development Engineer at Kuaishou.
 <!--
 **hutaishi/hutaishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,15 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hutaishi&show_icons=true&count_private=true)   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hutaishi&layout=compact)  
-
-
-
-
-
-
-
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hutaishi&layout=compact)  
 
 ```Java
 Hello World!
