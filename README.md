@@ -3,26 +3,14 @@
 [![Repos Badge](https://badges.pufler.dev/repos/hutaishi)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/hutaishi)](https://badges.pufler.dev)
 
-### Hi there 👋
-Java Development Engineer at Kuaishou.
-<!--
-**hutaishi/hutaishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋.I'm hutaishi!<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-Here are some ideas to get you started:
+*** 
+Java Senior Development Engineer at Kuaishou.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning High-Performance Java API Gateway.
+
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=hutaishi&show_icons=true&count_private=true)   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hutaishi&layout=compact)  
-
-```Java
-Hello World!
-```
 
